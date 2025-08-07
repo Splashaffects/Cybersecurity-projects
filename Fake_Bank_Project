@@ -1,0 +1,20 @@
+ Fake Bank Project
+
+Overview
+This project involved completing a TryHackMe simulation where I simulated a cyber attack on a fake bank.
+
+Objectives
+- Gain access to a fake bank account.
+- Transfer funds between accounts.
+- Learn about banking system vulnerabilities.
+
+ Steps Taken
+1.Reconnaissance: Gathered information about the application.
+2. Exploitation: Found and exploited vulnerabilities for access.
+3. Outcome: Successfully transferred funds within the simulation.
+
+Challenges Faced
+- Navigating the environment and executing the Wright bash commands to access the account.
+
+Conclusion
+This simulation helped me understand banking security measures and attack techniques.
